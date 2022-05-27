@@ -8,4 +8,5 @@ old line for check the stash
  adding some line for checking git pull work or not 
  and also checking the difference  between git pull vs git fetch
 hy this lines for cherry-pic
+hy so i'm okey
 
